@@ -48,5 +48,3 @@ Enter your answer (1-4) or 0 to quit: 1
 Correct answer! You have won Rs.1000
 
 ------------------------------------------------------------
-License
-This project is open-source and free to use for learning purposes.
